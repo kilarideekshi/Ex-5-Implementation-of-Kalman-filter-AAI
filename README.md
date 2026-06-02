@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-5: Implementation of Kalman filter </H1>
 
-### Name: 
-### Register Number:
+### Name: Deekshitha K
+### Register Number: 2305002005
 
 
 ## Aim:
@@ -77,6 +77,7 @@ plt.show()
 ___
 
 ## Output:
+<img width="739" height="474" alt="image" src="https://github.com/user-attachments/assets/0186e85f-56e3-4423-b61a-cff7e7f74f49" />
 
 ---
 
